@@ -1,5 +1,5 @@
-API Ideas 
-\n
+API Ideas  
+
 https://www.freetogame.com/api-doc : returns lists of games, can sort through using categories, platforms...
 
 https://foursquare.com/products/places-api/ : like google places, not free, 200$ credit
